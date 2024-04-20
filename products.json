@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Mustard",
+        "price": 499,
+        "img": "https://5.imimg.com/data5/IT/EA/ZT/SELLER-46798719/honey-jar-500x500.jpg",
+        "featured": false,
+        "company": "Honey",
+        "quantity": 0.5
+    },
+    {
+        "name": "Mustard",
+        "price": 269,
+        "img": "https://5.imimg.com/data5/IT/EA/ZT/SELLER-46798719/honey-jar-500x500.jpg",
+        "featured": true,
+        "company": "Honey",
+        "quantity": 1
+    },
+    {
+        "name": "Wild",
+        "price": 699,
+        "img": "https://img.freepik.com/free-psd/sweet-honey-jar-isolated-transparent-background_191095-14245.jpg",
+        "featured": false,
+        "company": "Honey",
+        "quantity": 0.5
+    },
+    {
+        "name": "Wild",
+        "price": 399,
+        "img": "https://img.freepik.com/free-psd/sweet-honey-jar-isolated-transparent-background_191095-14245.jpg",
+        "featured": true,
+        "company": "Honey",
+        "quantity": 1
+    }
+]
